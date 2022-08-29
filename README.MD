@@ -1,10 +1,7 @@
 # OmegaScans now uses JavaScript based site so this script will not work from now on
 # I might work in this project in future but i need to touch some grass (seriously)
 # Also any push regarding this thing will be approved if its working
-<br>
 # Im too lazy too make this look cool here but I promise I will 🛐.
-=======
-# Im too lazy too make this look cool but I promise I will 🛐.
 # Btw the code is working fine
 
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=symmetricalbyte_OmegaScansDownloader&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=symmetricalbyte_OmegaScansDownloader) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=symmetricalbyte_OmegaScansDownloader&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=symmetricalbyte_OmegaScansDownloader) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=symmetricalbyte_OmegaScansDownloader&metric=bugs)](https://sonarcloud.io/summary/new_code?id=symmetricalbyte_OmegaScansDownloader) ![GitHub language count](https://img.shields.io/github/languages/count/symmetricalbyte/OmegaScansDownloader) ![GitHub repo file count](https://img.shields.io/github/directory-file-count/symmetricalbyte/OmegaScansDownloader)
