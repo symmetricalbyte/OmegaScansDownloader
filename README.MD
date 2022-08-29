@@ -1,3 +1,7 @@
+# OmegaScans now uses JavaScript based site so this script will not work from now on
+# I might work in this project in future but i need to touch some grass (seriously)
+# Also any push regarding this thing will be approved if its working
+<br>
 # Im too lazy too make this look cool here but I promise I will 🛐.
 =======
 # Im too lazy too make this look cool but I promise I will 🛐.
